@@ -155,4 +155,4 @@ Markdown基本语法允许通过将行缩进四个空格或一个制表符来创
 
 一些Markdown应用程序允许您通过键入表情符号短代码来插入表情符号。这些以冒号开头和结尾，并包含表情符号的名称。
 
-**注意**：可以使用此[表情符号简码列表](https://gist.github.com/rxaviers/7360908)，但表情符号简码因应用程序而异(为了方便可以使用作者下方转载的这个，原文件是Github用户名为Rafael Xavier de Souza的大佬所创建的)
+**注意**：可以使用此[表情符号简码列表](https://gist.github.com/rxaviers/7360908)，但表情符号简码因应用程序而异(为了方便可以使用作者同文件夹下转载的这个，原文件是Github用户名为Rafael Xavier de Souza的大佬所创建的)
