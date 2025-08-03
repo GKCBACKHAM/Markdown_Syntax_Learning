@@ -1,6 +1,8 @@
 # 关于学习Markdown语法的前言
 
-首先，关于Markdown的全部语法都可以在官网上找到：[Markdown语法](https://markdown.com.cn/basic-syntax/ "Markdown官网的教程")
+首先，关于Markdown的全部语法都可以在官网上找到：[Markdown语法](https://markdown.com.cn/basic-syntax/ "Markdown官网的教程")。
+
+这里顺便提供[Markdown语法速查表](https://markdown.com.cn/cheat-sheet.html "快速检索Markdown的各种语法")供基本了解Markdown语法但仍旧不熟练的使用。
 
 本文仅作为作者学习之用，并着重选取Markdown官网中最推荐的、兼容性最好的、最实用的Markdown语法。
 
@@ -142,6 +144,15 @@ Markdown基本语法允许通过将行缩进四个空格或一个制表符来创
 `[^自定义的符号和标识符]: 脚注内容`
 
 **注意**：标识符可以是数字或单词，但不能包含空格或制表符。标识符仅将脚注参考与脚注本身相关联-在输出中，脚注按顺序编号。
+
+## 任务列表
+
+任务列表即创建带有复选框的项目列表，在任务列表项之前添加破折号`-`和方括号`[ ]`，并在`[ ]`前面加上空格即可。要选择一个复选框，请在方括号`[x]`之间添加 x ，如：
+
+```
+- [x] 任务列表项1
+- [ ] 任务列表项2
+```
 
 ## Emoji 表情
 
